@@ -28,7 +28,7 @@ This portfolio showcases my analytical skills through projects in **data science
 
 ## Cover Letter  
 This portfolio also includes a **cover letter** for job and internship applications in data analytics, applied mathematics, and related fields.  
-[View Cover Letter](Cover_Letter/Cover_Letter.pdf)  
+[View Cover Letter](Cover_Letter)  
 
 ## Contact  
 - **Email:** ricardo.reyescarmona@duke.edu  
