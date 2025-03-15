@@ -17,7 +17,7 @@ This portfolio showcases my analytical skills through projects in **data science
 - **Objective:** Explored the mathematical foundations of RSA encryption, including modular arithmetic and prime factorization.  
 - **Topics Covered:** Public/private keys, Fermat’s Little Theorem, cryptographic security.  
 - **Key Findings:** Explained why RSA remains a secure cryptographic method and how it is applied in data security.  
-- [Read Full Report](Duke-RSA-Research/RSA_Final_Preview_Breakdown.pdf)  
+- [Read Full Report](Duke-RSA-Research/RSA Final Preview Breakdown.pdf)  
 
 ## Skills & Expertise  
 ✔ **Data Analytics:** Python, SQL, R, Excel, Tableau  
