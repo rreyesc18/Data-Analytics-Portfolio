@@ -3,7 +3,7 @@
 ricardo.reyescarmona@duke.edu  
 (205) 837-9352  
 [LinkedIn Profile](https://www.linkedin.com/in/ricardoreyescarmona/)  
-[GitHub Portfolio](https://github.com/rreyesc18Data-Analytics-Portfolio)  
+[GitHub Portfolio](https://github.com/rreyesc18/Data-Analytics-Portfolio)  
 
 ---
 
@@ -30,4 +30,4 @@ Thank you for your time and consideration. I look forward to connecting.
 [ricardo.reyescarmona@duke.edu](mailto:ricardo.reyescarmona@duke.edu)  
 (205) 837-9352  
 [LinkedIn Profile](https://www.linkedin.com/in/ricardoreyescarmona/)  
-[GitHub Portfolio](https://github.com/rreyesc18Data-Analytics-Portfolio) 
+[GitHub Portfolio](https://github.com/rreyesc18/Data-Analytics-Portfolio) 
